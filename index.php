@@ -5,9 +5,9 @@
     <!-- Required meta tags-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Colorlib Templates">
-    <meta name="author" content="Colorlib">
-    <meta name="keywords" content="Colorlib Templates">
+    <meta name="description" content="Kelvin Gauki Ngari">
+    <meta name="author" content="Kelvin Gauki Ngari">
+    <meta name="keywords" content="Kelvin Gauki Ngari">
 
     <!-- Title Page-->
     <title>Risk at (mass-gathering) events under COVID-19</title>
@@ -215,7 +215,7 @@
     <!-- Main JS-->
     <script src="js/global.js"></script>
 
-</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</body>
 
 </html>
 <!-- end document-->
