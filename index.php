@@ -190,14 +190,18 @@
                                 }
                                 else
                                 {
-                                    echo " <p style='color: white'> Error </p>";
+                                    echo " <p style='color: white'> Kindly Input the values in the above provided fields </p>";
                                 }
 
                             ?>              
                         </div>
                     </form>
                 </div>
-            </div>
+            </div><br><br>
+            The Platform has been developed by <B style = "color: red">Kelvin Gauki Ngari</B> on 28/Jan/2021.<br>
+            Email: kelvin@softwaretechn.co.ke or kelvingauki@gmail.com<br>
+            Tel: +254792945999<br>
+            Source Code: <a href="https://github.com/g-kelvin/corona" ><b>Click my GitHub</b></a>
         </div>
     </div>
 
